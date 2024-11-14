@@ -1,0 +1,12 @@
+[submodule "rating-component"]
+	path = rating-component
+	url = git@github.com:TheoA816/rating-component.git
+[submodule "pricing-comp"]
+	path = pricing-comp
+	url = git@github.com:TheoA816/pricing-comp.git
+[submodule "qr-comp"]
+	path = qr-comp
+	url = git@github.com:TheoA816/qr-comp.git
+[submodule "age-calc"]
+	path = age-calc
+	url = git@github.com:TheoA816/age-calc.git
